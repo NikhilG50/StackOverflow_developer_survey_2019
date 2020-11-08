@@ -17,8 +17,8 @@
 
 **DataSet:**
 The data set consistes of 2 Files
-- 1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
-- 2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
+- survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
+- survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
 
 Because of memory issues i coudn't able too upload dataset, but you can get the information about the dataSet from official website.(https://insights.stackoverflow.com/survey/2019) and you can Download datset from This link: https://insights.stackoverflow.com/survey/
 
