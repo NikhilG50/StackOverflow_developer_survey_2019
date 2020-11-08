@@ -7,13 +7,13 @@
 
 
 **Questions**
-- 1. Find the average age of developers when they wrote their first line of code.
-- 2. Deduce the percentage of developers who know python in each country.
-- 3. Generate a report for the average salary of developer based on continent.
-- 4. Based on this survey, what will be the most desired programming language for the year 2020?
-- 5. What is the distribution of people who code as a hobby based on gender and continent?
-- 6. Generate the report for job and career satisfaction of developer based on their gender and continent?
-- 7. For problems f and g, gender should have three categories man, woman and others. If a record have any other value, consider it as Others.
+  1. Find the average age of developers when they wrote their first line of code.
+  2. Deduce the percentage of developers who know python in each country.
+  3. Generate a report for the average salary of developer based on continent.
+  4. Based on this survey, what will be the most desired programming language for the year 2020?
+  5. What is the distribution of people who code as a hobby based on gender and continent?
+  6. Generate the report for job and career satisfaction of developer based on their gender and continent?
+  7. For problems f and g, gender should have three categories man, woman and others. If a record have any other value, consider it as Others.
 
 **DataSet:**
 The data set consistes of 2 Files
