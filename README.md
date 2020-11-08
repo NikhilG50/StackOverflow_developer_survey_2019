@@ -3,7 +3,7 @@
 
 ## objective
 
-** Analyze a given dataSet and answer the business questions using Python Pandas library.**
+**Analyze a given dataSet and answer the business questions using Python Pandas library.**
 
 
 **Questions**
